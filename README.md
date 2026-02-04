@@ -26,5 +26,8 @@ L’application offre une navigation fluide entre plusieurs écrans et permet de
 ## Lancer le projet
 
 ```bash
+git clone https://github.com/charlottecordelle/CordelFlix.git
+cd CordelFlix
 npm install
 npm start
+```
